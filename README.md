@@ -1,2 +1,3 @@
 # hello-world2
-Just another repository
+
+Hi I am Imran i am trying to learn GitHub.
